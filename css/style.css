@@ -22,6 +22,7 @@ body {
     font-size: 15px;
     font-family: 'Barlow', sans-serif;
     line-height: 1.80857;
+	background-color: #f2e9e9;
 }
 
 
@@ -673,7 +674,7 @@ button:focus{
 }
 .event-inner{
 	margin-bottom: 30px;
-	border: 10px solid #fff;
+	border: 2px solid #fff;
 	box-shadow: 0 2px 5px rgba(0,0,0,.1);
 }
 .event-img{
@@ -761,7 +762,7 @@ select.form-control:not([size]):not([multiple]){
 }
 
 .footer-box{
-	background: #292f35;
+	background: #dd666c;
 	padding: 20px 0;
 }
 
